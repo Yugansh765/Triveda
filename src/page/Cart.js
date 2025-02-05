@@ -26,12 +26,12 @@ const Cart = () => {
         console.log(res);
       },
       prefill: {
-        name: "Kartik Sharma",
-        email: "youremail@example.com",
+        name: "Yugansh Sharma",
+        email: "Yugansh_Sharma@example.com",
         contact: "9999999999",
       },
       notes: {
-        address: "Razorpay Corporate Office",
+        address: "Triveda Office",
       },
       theme: {
         color: "#3399cc",
