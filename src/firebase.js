@@ -6,13 +6,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_APP_ID,
-  measurementId:process.env.REACT_APP_MEASUREMENT_ID, 
+  apiKey: "AIzaSyChqhsYicn9KmqBmXBFaB02AcItqc7GmHM",
+  authDomain: "e-commerce-8e826.firebaseapp.com",
+  projectId: "e-commerce-8e826",
+  storageBucket: "e-commerce-8e826.firebasestorage.app",
+  messagingSenderId: "388374572287",
+  appId: "1:388374572287:web:8d68c36c53f35a00b2f0ca",
+  measurementId: "G-7RD5G8VD14"
 };
 
 // Initialize Firebase
